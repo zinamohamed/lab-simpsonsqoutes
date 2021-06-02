@@ -8,7 +8,7 @@ exports[`App component renders App 1`] = `
         Random Simpson Quote
       </h2>
       <button>
-         Fetch Quote! 
+         Get Quote! 
       </button>
     </div>
     <div>
